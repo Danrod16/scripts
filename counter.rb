@@ -1,5 +1,5 @@
 # RUN ME WITH ruby counter.rb
-# Sund one!
+# Sound one!
 
 system("say this is an announcement for starting the countdown until presentation start")
 sleep(1)
