@@ -1,9 +1,12 @@
-# system("say this is an announcement for starting the countdown until presentation start:")
-# sleep(1)
-# system("say get ready, Marco")
-# sleep(1)
-# system("say 30 minutes before presentations")
-# sleep(12*30)
+# RUN ME WITH ruby counter.rb
+# Sund one!
+
+system("say this is an announcement for starting the countdown until presentation start")
+sleep(1)
+system("say get ready!!")
+sleep(1)
+system("say 30 minutes before presentations")
+sleep(12*30)
 system("say 5 minutes until presentation")
 sleep(5*30)
 system("say presentation ready to start, rent-a tour you are first")
@@ -27,5 +30,5 @@ system("say 2")
 sleep(1)
 system("say 1")
 sleep(1)
-system("say lol!")
+system("say Ignition!")
 
